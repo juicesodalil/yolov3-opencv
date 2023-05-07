@@ -1,0 +1,3 @@
+import component.per_frame_process
+
+process_frame = per_frame_process.process_frame
